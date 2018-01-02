@@ -33,4 +33,4 @@
             square.css("color",  colour);
         });
     },
-    300);
+    350);
